@@ -1,0 +1,28 @@
+body.login {
+    background-color:#22222b
+}
+.login #backtoblog a,
+.login #backtoblog a:active,
+.login #backtoblog a:hover,
+.login #nav a,
+.login #nav a:active,
+.login #nav a:hover,
+.login .privacy-policy-page-link a,
+.login .privacy-policy-page-link a:active,
+.login .privacy-policy-page-link a:hover {
+    color:#fff;
+    text-shadow:0 0 3px rgba(0,0,0,.2);
+    -webkit-transition:.2s;
+    transition:.2s
+}
+.login #backtoblog a:hover,
+.login #nav a:hover,
+.login .privacy-policy-page-link a:hover {
+    text-shadow:0 0 3px rgba(0,0,0,.5)
+}
+body.login div#login h1 a {
+    background-image: url("assets/img/updoot.png");
+    -webkit-background-size: 320px;
+    background-size: 320px;
+    width:100%;
+}
