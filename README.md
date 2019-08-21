@@ -36,7 +36,7 @@ Consider supporting WP Updoot by:
 * Supporting WP Updoot on [Patreon](https://www.patreon.com/wpupdoot)
 * Hitting WP Updoot up on [Twitter](https://twitter.com/wpUpdoot)
 * Following WP Updoot on [Facebook](https://www.facebook.com/WP-Updoot-103509467684804/)
-* Finding WP Updoot on [WordPress.org](https://profiles.wordpress.org/wpupdootofficial/)
+* Finding WP Updoot on [WordPress.org](https://profiles.wordpress.org/wpupdoot/)
 * Viewing WP Updoot's contributions on [StackOverflow](https://stackoverflow.com/users/11942572/wp-updoot)
 * Checking out WP Updoot on [GitHub](https://github.com/wpupdoot) (pun intended)
 
