@@ -1,5 +1,9 @@
 body.login {
-    background-color:#22222b
+    background-color:#22222b;
+    background-image:url("assets/img/login-bg.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size:cover;
 }
 .login #backtoblog a,
 .login #backtoblog a:active,
@@ -13,12 +17,12 @@ body.login {
     color:#fff;
     text-shadow:0 0 3px rgba(0,0,0,.2);
     -webkit-transition:.2s;
-    transition:.2s
+    transition:.2s;
 }
 .login #backtoblog a:hover,
 .login #nav a:hover,
 .login .privacy-policy-page-link a:hover {
-    text-shadow:0 0 3px rgba(0,0,0,.5)
+    text-shadow:0 0 3px rgba(0,0,0,.5);
 }
 body.login div#login h1 a {
     background-image: url("assets/img/updoot.png");
